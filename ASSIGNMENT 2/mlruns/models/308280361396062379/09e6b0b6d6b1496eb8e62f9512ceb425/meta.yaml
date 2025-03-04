@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/308280361396062379/09e6b0b6d6b1496eb8e62f9512ceb425/artifacts
+end_time: 1741088235022
+entry_point_name: ''
+experiment_id: '308280361396062379'
+lifecycle_stage: active
+run_id: 09e6b0b6d6b1496eb8e62f9512ceb425
+run_name: adaptable-sponge-781
+run_uuid: 09e6b0b6d6b1496eb8e62f9512ceb425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741088228524
+status: 3
+tags: []
+user_id: root

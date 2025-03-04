@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/308280361396062379/d18d0cf87ef74e48a1ac69da80e612ae/artifacts
+end_time: 1741088238931
+entry_point_name: ''
+experiment_id: '308280361396062379'
+lifecycle_stage: active
+run_id: d18d0cf87ef74e48a1ac69da80e612ae
+run_name: polite-tern-982
+run_uuid: d18d0cf87ef74e48a1ac69da80e612ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741088235027
+status: 3
+tags: []
+user_id: root

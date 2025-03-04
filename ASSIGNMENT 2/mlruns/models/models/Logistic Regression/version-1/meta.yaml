@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741088238779
+current_stage: None
+description: null
+last_updated_timestamp: 1741088238779
+name: Logistic Regression
+run_id: d18d0cf87ef74e48a1ac69da80e612ae
+run_link: null
+source: file:///content/mlruns/308280361396062379/d18d0cf87ef74e48a1ac69da80e612ae/artifacts/sklearn-model
+status: READY
+status_message: null
+storage_location: file:///content/mlruns/308280361396062379/d18d0cf87ef74e48a1ac69da80e612ae/artifacts/sklearn-model
+user_id: null
+version: 1
