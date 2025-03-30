@@ -4,8 +4,6 @@ import subprocess
 import os
 import requests
 import time
-from threading import Thread
-from pyngrok import ngrok
 import joblib
 
 import sys
