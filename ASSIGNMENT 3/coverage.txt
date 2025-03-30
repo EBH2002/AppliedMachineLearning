@@ -1,0 +1,25 @@
+======================================= test session starts ========================================
+platform linux -- Python 3.11.11, pytest-8.3.5, pluggy-1.5.0
+rootdir: /content
+plugins: cov-6.0.0, langsmith-0.3.18, anyio-4.9.0, typeguard-4.4.2
+collected 2 items                                                                                  
+
+test.py ..                                                                                   [100%]
+
+========================================= warnings summary =========================================
+test.py: 19 warnings
+  /usr/local/lib/python3.11/dist-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but SVC was fitted with feature names
+    warnings.warn(
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+
+---------- coverage: platform linux, python 3.11.11-final-0 ----------
+Name       Stmts   Miss  Cover   Missing
+----------------------------------------
+score.py      30      2    93%   60, 63
+test.py       43      0   100%
+----------------------------------------
+TOTAL         73      2    97%
+Coverage HTML written to dir test_coverage.txt
+
+================================= 2 passed, 19 warnings in 10.26s ==================================
